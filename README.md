@@ -5,7 +5,7 @@
 
 Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated about development and entrepreneurship.
 
-- :books: I’m currently learning JavaScript, Node.js, Python and C.
+- :books: I’m currently learning JavaScript, Node.js, Python, Java and C.
 - :pushpin: Interests: Full Stack Development, Data Science, UX, UI Design, Marketing.
 
 ⭐️ From [***Júlio César***](https://github.com/juliocesarfs)
