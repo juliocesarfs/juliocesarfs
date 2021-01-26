@@ -1,4 +1,4 @@
-## Hello World! 👋
+## What's up! 👋
 
 
 Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated about development and entrepreneurship.
