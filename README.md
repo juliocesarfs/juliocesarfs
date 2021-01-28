@@ -1,9 +1,9 @@
 ## What's up! 👋
 
 
-Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated about development and entrepreneurship.
+Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated about software development and entrepreneurship.
 
-- :books: I’m currently learning JavaScript, Node.js, Python, Java and C.
+- :books: I’m currently learning JavaScript, Node.js, Java and C.
 - :pushpin: Interests: Full Stack web Development, Data Science, Marketing.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true">
