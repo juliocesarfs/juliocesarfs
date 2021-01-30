@@ -4,9 +4,9 @@ Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated abou
 
 [![Júlio César Github Stats](https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/juliocesarfs)
 
-## Studying now
+## 📝 Studying now
 
-📝 These are the content I'm focused on at the moment<br></br>
+📌 These are the content I'm focused on at the moment<br></br>
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=orange&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
