@@ -4,9 +4,9 @@ Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated abou
 
 [![Júlio César Github Stats](https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/juliocesarfs)
 
-## Studying now
+## 📝 Studying now
 
-📝 These are the content I'm focused on at the moment<br></br>
+📌 These are the content I'm focused on at the moment<br></br>
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
@@ -28,6 +28,7 @@ Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated abou
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&logoColor=blue&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 
+---
 ## 💎 Contact me
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=aqua&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/juliocesarafs/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=%20&color=aqua&logo=Gmail&style=flat-square&logoColor=white)](mailto:juliocesarafs2@gmail.com)
