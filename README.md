@@ -6,7 +6,7 @@ Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated abou
 - :books: I’m currently learning JavaScript, Node.js, Java and C.
 - :pushpin: Interests: Full Stack web Development, Data Science, Marketing.
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true">
+[![Júlio César Github Stats](https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/juliocesarfs)
 
 ---
 ## Contact me
