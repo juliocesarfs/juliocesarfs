@@ -9,6 +9,7 @@ Hi, I'm Júlio 🇧🇷, a Computer Information Systems student passionated abou
 📌 These are the content I'm focused on at the moment<br></br>
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=blue&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
