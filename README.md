@@ -11,8 +11,6 @@ Hi, I'm Júlio 🇧🇷, a Information Systems student at [UEG](http://www.ueg.b
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flag-square&logo=javascript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flag-square&logo=typescript&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flag-square&logo=Java&logoColor=white&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flag-square&logo=c&logoColor=blue&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
-[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flag-square&logo=Python&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
 
 **Front-end**
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flag-square&logo=angular&logoColor=white&link=https://github.com/juliocesarfs/)](https://github.com/juliocesarfs/)
