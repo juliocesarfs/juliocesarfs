@@ -1,4 +1,4 @@
-## What's up! 👋
+
 
 [![Júlio César Github Stats](https://github-readme-stats.vercel.app/api?username=juliocesarfs&show_icons=true&theme=dark&bg_color=0d1117&&count_private=true&hide_border=true)](https://github.com/juliocesarfs)
 ![Júlio César Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarfs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)
